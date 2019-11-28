@@ -2,12 +2,13 @@
 - [Basic](#bc-basic)
 - [Stone](#bc-stone)
 - [Beveled](#bc-beveled)
-
+- [Metal](#bc-metal)
+- [Glass](#bc-glass)
 
 ### <a id="bc-basic">• Basic Blocks</a>
 
-| Combination     | Result     | Requirements
-| -------         | ------     | -------
+| Combination     | Result     | Unlock Requirement
+| -------         | ------     | ----------
 | ![basicWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicWhite.png) ⁺ ![basicBlack](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicBlack.png) | ![basicGrey](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicGrey.png) | Purchase from shop
 | ![basicRed](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicRed.png) ⁺ ![basicYellow](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicYellow.png) | ![basicOrange](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicOrange.png) | Purchase from shop
 | ![basicRed](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicRed.png) ⁺ ![basicGreen](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicGreen.png) | ![basicYellow](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicYellow.png) | Purchase from shop
@@ -18,8 +19,8 @@
 
 
 ### <a id="bc-stone">• Stone Blocks</a>
-| Combination     | Result     | Requirements
-| -------         | ------     | -------
+| Combination     | Result     | Unlock Requirement
+| -------         | ------     | ----------
 | ![basicWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicWhite.png) ⁺ ![basicWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicWhite.png) | ![stoneWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/stoneWhite.png) | None
 | ![basicGrey](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicGrey.png) ⁺ ![basicGrey](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicGrey.png) | ![stoneGrey](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/stoneGrey.png) | None
 | ![basicBlack](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicBlack.png) ⁺ ![basicBlack](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicBlack.png) | ![stoneBlack](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/stoneBlack.png) | None
@@ -32,8 +33,8 @@
 | ![basicPurple](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicPurple.png) ⁺ ![basicPurple](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicPurple.png) | ![stonePurple](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/stonePurple.png) | None
 
 ### <a id="bc-beveled">• Beveled Blocks</a>
-| Combination     | Result     | Requirements
-| -------         | ------     | -------
+| Combination     | Result     | Unlock Requirement
+| -------         | ------     | ----------
 | ![basicWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicWhite.png) ⁺ ![basicWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicWhite.png) ⁺ ![basicWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicWhite.png) | ![beveledWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledWhite.png) | None
 | ![basicGrey](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicGrey.png) ⁺ ![basicGrey](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicGrey.png) ⁺ ![basicGrey](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicGrey.png) | ![beveledGrey](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledGrey.png) | None
 | ![basicBlack](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicBlack.png) ⁺ ![basicBlack](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicBlack.png) ⁺ ![basicBlack](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicBlack.png) | ![beveledBlack](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledBlack.png) | None
@@ -44,3 +45,32 @@
 | ![basicCyan](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicCyan.png) ⁺ ![basicCyan](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicCyan.png) ⁺ ![basicCyan](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicCyan.png) | ![beveledCyan](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledCyan.png) | None
 | ![basicBlue](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicBlue.png) ⁺ ![basicBlue](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicBlue.png) ⁺ ![basicBlue](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicBlue.png) | ![beveledBlue](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledBlue.png) | None
 | ![basicPurple](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicPurple.png) ⁺ ![basicPurple](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicPurple.png) ⁺ ![basicPurple](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/basicPurple.png) | ![beveledPurple](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledPurple.png) | None
+
+### <a id="bc-metal">• Metal Blocks</a>
+| Combination     | Result     | Name   | Unlock Requirement
+| -------         | ------     | ----   | ----------
+| ![stoneWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/stoneWhite.png) ⁺ ![beveledWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledWhite.png) | ![metalSilver](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalSilver.png) | Silver | None
+| ![beveledWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledWhite.png) ⁺ ![metalIron](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalIron.png) | ![metalSteel](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalSteel.png) | Steel | Purchase from shop
+| ![stoneBlack](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/stoneBlack.png) ⁺ ![beveledGrey](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledGrey.png) | ![metalIron](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalIron.png) | Iron | None
+| ![stoneOrange](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/stoneOrange.png) ⁺ ![beveledYellow](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledYellow.png) | ![metalGold](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalGold.png) | Gold | Purchase from shop
+| ![beveledOrange](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledOrange.png) ⁺ ![metalCopper](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalCopper.png) | ![metalBronze](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalBronze.png) | Bronze | Purchase from shop
+| ![stoneRed](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/stoneRed.png) ⁺ ![beveledRed](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledRed.png) | ![metalCopper](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalCopper.png) | Copper | Purchase from shop
+
+### <a id="bc-glass">• Glass Blocks</a>
+| Combination     | Result     | Unlock Requirement
+| -------         | ------     | ----------
+| ![beveledWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledWhite.png) ⁺ ![beveledWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledWhite.png) ⁺ ![metalSilver](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalSilver.png) | ![glassWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassWhite.png) | Purchase from shop
+| ![beveledGrey](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledGrey.png) ⁺ ![beveledBlack](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledBlack.png) ⁺ ![metalIron](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalIron.png) | ![glassBlack](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassBlack.png) | Purchase from shop
+| ![beveledRed](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledRed.png) ⁺ ![beveledRed](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledRed.png) ⁺ ![metalBronze](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalBronze.png) | ![glassRed](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassRed.png) | Purchase from shop
+| ![beveledWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledWhite.png) ⁺ ![beveledOrange](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledOrange.png) ⁺ ![metalBronze](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalBronze.png) | ![glassOrange](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassOrange.png) | Purchase from shop
+| ![beveledYellow](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledYellow.png) ⁺ ![metalGold](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalGold.png) ⁺ ![glassWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassWhite.png) | ![glassYellow](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassYellow.png) | Purchase from shop
+| ![beveledWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledWhite.png) ⁺ ![beveledGreen](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledGreen.png) ⁺ ![glassWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassWhite.png) | ![glassGreen](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassGreen.png) | Purchase from shop
+| ![beveledCyan](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledCyan.png) ⁺ ![metalSilver](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalSilver.png) ⁺ ![glassWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassWhite.png) | ![glassCyan](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassCyan.png) | Purchase from shop
+| ![beveledBlue](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledBlue.png) ⁺ ![metalSilver](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalSilver.png) ⁺ ![glassWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassWhite.png) | ![glassBlue](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassBlue.png) | Purchase from shop
+| ![stonePurple](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/stonePurple.png) ⁺ ![beveledPurple](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledPurple.png) ⁺ ![glassWhite](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassWhite.png) | ![glassPurple](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassPurple.png) | Purchase from shop
+| ![beveledPurple](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/beveledPurple.png) ⁺ ![metalSilver](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/metalSilver.png) ⁺ ![glassPurple](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassPurple.png) | ![glassPink](https://github.com/capasha/EEUProtocol/blob/master/images/blocks/glassPink.png) | Purchase from shop
+
+
+
+
+

@@ -13,10 +13,14 @@ Documentation Last Updated: `2019/11/24`
 - [Shop](Shop.md)
 
 ### <a id="tutorial">• How To Play</a>
-You play by moving into blocks and pushing them around with your arrow / WASD keys.\
-![movegif](https://github.com/PaulZ0/EEUMovingBlocks/blob/master/files/gifs/move.gif)\
-Pushing certain blocks into others will create combinations, granting you different types of blocks.\
-![combogif](https://github.com/PaulZ0/EEUMovingBlocks/blob/master/files/gifs/combo.gif)\
+You play by moving into blocks and pushing them around with your arrow / WASD keys.
+
+![movegif](https://github.com/PaulZ0/EEUMovingBlocks/blob/master/files/gifs/move.gif)
+
+Pushing certain blocks into others will create combinations, granting you different types of blocks.
+
+![combogif](https://github.com/PaulZ0/EEUMovingBlocks/blob/master/files/gifs/combo.gif)
+
 Just like the game this world is hosted on, there isn't really a set goal to accomplish, so feel free to do whatever you'd like.
 Some things you can try are unlocking all block combinations, creating art, or advancing up the points leaderboard.
 

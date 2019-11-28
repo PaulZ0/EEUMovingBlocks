@@ -1,5 +1,5 @@
 # Everybody Edits Universe - Moving Blocks
-This repository is for documenting information related to the EEU Moving Blocks bot and world (created and run by Coinage)
+This repository is for documenting information related to the EEU Moving Blocks bot and world (created and run by Coin)
 
 World ID: `maLnYLdadBpY`
 
@@ -13,7 +13,7 @@ Documentation Last Updated: `2019/11/24`
 - [Shop](Shop.md)
 
 ### <a id="tutorial">• How To Play</a>
-You play by moving into blocks and pushing them around. 
+You play by moving into blocks and pushing them around.
 Pushing certain blocks into others will create combinations, granting you different types of blocks.
 Just like the game this world is hosted on, there isn't really a set goal to accomplish, so feel free to do whatever you'd like.
 Some things you can try are unlocking all block combinations, creating art, or advancing up the points leaderboard.

@@ -10,6 +10,7 @@ Documentation Last Updated: `2019/11/28`
 - [How To Play](#tutorial)
 - [Commands](Commands.md)
 - [Block Combinations](Combinations.md)
+- [Block Protection Times](BlockProtection.md)
 - [Shop](Shop.md)
 
 ### <a id="tutorial">• How To Play</a>
@@ -24,8 +25,12 @@ Pushing certain blocks into others will create combinations, granting you differ
 Just like the game this world is hosted on, there isn't really a set goal to accomplish, so feel free to do whatever you'd like.
 Some things you can try are unlocking all block combinations, creating art, or advancing up the points leaderboard.
 
-• All usable commands are listed in [Commands](Commands.md).\
-• All possible block combinations are listed in [Block Combinations](Combinations.md). Some combinations may require purchasing in the shop or through unlocking by playing.\
+• All usable commands are listed in [Commands](Commands.md).
+
+• All possible block combinations are listed in [Block Combinations](Combinations.md). Some combinations may require purchasing in the shop or through unlocking by playing.
+
+• Each block type has its own protection time to prevent immediate griefing. Check them out in [Block Protection Times](BlockProtection.md)
+
 • All purchasable items, powerups and block combinations are listed in [Shop](Shop.md)
 
 (Note, not everything listed may be available and also is subject to change)
